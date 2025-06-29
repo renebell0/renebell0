@@ -14,7 +14,7 @@
 
 - 🏆 Programador.
 - 🌐 Desarrollador Web: Creando soluciones full-stack eficientes.
-- 🤖 Especialista en Automatización con n8n: Optimizando flujos de trabajo y conectando APIs.
+- 🤖 Especialista en Automatización con n8n: Optimizando flujos de trabajo.
 - 🧑‍🎓 TSU en ingenieria informatica.
 - 🤓 Aprendizaje continuo de nuevas tecnologías.
 - 💼 Abierto a nuevas oportunidades laborales. [Ver mi CV](https://renebello.com/document/renecurriculum.pdf)
