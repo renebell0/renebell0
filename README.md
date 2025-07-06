@@ -5,7 +5,7 @@
 
 <br>
 	
-## <picture><img src = "https://renebello.com/image/about_me.gif" width = 50px></picture> Sobre Mí
+## <picture><img src = "https://renebello.com/image/about_me.gif" width = 50px></picture> Sobre Mí <picture><img src = "https://renebello.com/image/about_me.gif" width = 50px></picture>
 
 <picture> <img align="right" src="https://renebello.com/image/Right_Side.gif" width = 250px></picture>
 
