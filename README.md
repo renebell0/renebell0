@@ -1,6 +1,3 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://renebello.com">Rene Bello</a> 👋</h1>
-</div>
 <img src="https://renebello.com/image/renebello-banner.png">
 
 <br>
